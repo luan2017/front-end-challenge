@@ -1,4 +1,4 @@
-# inspirational-challenge
+# inspirational-challenges
 
 Seja bem-vindo ao repositório do projeto iClinic, um caso de uso que deve ser implementado contendo uma versão para plataforma web. Obrigado por participar do desafio da Dr.Cash! Estamos muito contentes pelo seu primeiro passo para fazer parte de um time excepcional.
 
