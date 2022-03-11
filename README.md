@@ -47,7 +47,7 @@ Esse projeto foi muito bacana de fazer, fiquei bem contente com o resultado que 
  #### React-Iclinic:  https://front-end-challenge-rouge.vercel.app/
 
 ## Assista a apresentação do projeto:
-#### Vídeo:  
+#### Vídeo:  URL da Apresentação https://vimeo.com/686957443/3537ae9045
 
 ## History
 Da uma olhada na aba [Releases](https://github.com/luan2017/front-end-challenge) pra acompanhar as alterações feitas no projeto.
